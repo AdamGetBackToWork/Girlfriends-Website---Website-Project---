@@ -1,4 +1,4 @@
-# Patrycja-hobby-page
+# Patrycja's hobby page
 My girlfriend's page!
 
 ### This page will be a present for her. She's been dreaming for the longest time to actually show the world what she can do with the yarn (crochet stuff and all). 
