@@ -5,4 +5,10 @@ My girlfriend's page!
 
 So yeah im putting it here just so I can show it to other people before I finish it and finally realease it!
 
+> TO DO: 
+> - Make a mobile version
+> - Make it scale nicely
+> - Finally do something in JavaScript that actually makes sense to a website
+> - Upload photos of her work
+> - Design a home page
 
